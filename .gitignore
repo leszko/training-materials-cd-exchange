@@ -7,6 +7,11 @@ gradle-app.setting
 
 !gradle-wrapper.jar
 
+# Intellij
+.idea/
+*.iml
+*.iws
+
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
