@@ -14,7 +14,7 @@ public class ExchangeController {
         if ("USD".equalsIgnoreCase(currency)) {
             return "1.00";
         } else {
-            return "not supported";
+            return "not supported"; 
         }
     }
 }
